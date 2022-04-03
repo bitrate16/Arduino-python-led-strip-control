@@ -1,7 +1,7 @@
 # This source contains Arduino driver communicator written in python
 #
 #   Arduino python led strip control
-#   Copyright (C) 2022 bitrate16 (pegasko) bitrate16@gmail.com
+#   Copyright (C) 2022 bitrate16 bitrate16@gmail.com
 #
 #   This program is free software: you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by
